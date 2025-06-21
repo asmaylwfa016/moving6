@@ -1,0 +1,23 @@
+name: jeddah-moving-prices
+services:
+- name: web
+  source_dir: /
+  github:
+    repo: asmaylwfa016/moving6
+    branch: master
+  run_command: npm start
+  build_command: npm run build
+  environment_slug: node-js
+  instance_count: 1
+  instance_size_slug: basic-xxs
+  routes:
+  - path: /
+  health_check:
+    http_path: /
+  envs:
+  - key: NODE_ENV
+    value: production
+    type: SECRET
+  - key: PORT
+    value: "8080"
+    type: SECRET 
