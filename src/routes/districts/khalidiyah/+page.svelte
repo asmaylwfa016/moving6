@@ -19,7 +19,7 @@
   <!-- Hero -->
   <section class="relative h-72 md:h-96">
     <img
-      src="/images/best_moving_company_jeddah_2.jpg"
+      src="/images/jeddah_furniture_moving_company_ksa.jpg"
       alt="منظر عام لحي الخالدية"
       class="absolute inset-0 w-full h-full object-cover opacity-70" />
     <div class="absolute inset-0 bg-gradient-to-b from-black/60 to-black/30"></div>

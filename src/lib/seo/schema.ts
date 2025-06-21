@@ -205,7 +205,7 @@ export function generateBlogPostSchema(post: {
       name: "نقل العفش جدة",
       logo: {
         "@type": "ImageObject",
-        url: `${baseUrl}/images/logo.png`
+        url: `${baseUrl}/images/furniture_transportation_jeddah_specialists_saudi.jpg`
       }
     },
     datePublished: post.date,
@@ -362,11 +362,11 @@ export function generateLocalBusinessSchema(): LocalBusinessSchema {
       "https://www.instagram.com/jeddah_moving",
       "https://www.linkedin.com/company/jeddah-moving"
     ],
-    logo: "https://jeddah-moving.com/images/logo.png",
+    logo: "https://jeddah-moving.com/images/furniture_transportation_jeddah_specialists_saudi.jpg",
     image: [
-      "https://jeddah-moving.com/images/hero-image.jpg",
-      "https://jeddah-moving.com/images/jeddah_moving_company_1.jpg",
-      "https://jeddah-moving.com/images/best_moving_company_jeddah_1.jpg"
+      "https://jeddah-moving.com/images/furniture_transportation_jeddah_specialists_saudi.jpg",
+      "https://jeddah-moving.com/images/jeddah_furniture_moving_company_ksa.jpg",
+      "https://jeddah-moving.com/images/furniture_transport_solutions_jeddah.jpg"
     ]
   };
 }

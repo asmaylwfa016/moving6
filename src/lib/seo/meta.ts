@@ -28,7 +28,7 @@ export interface TwitterCardData {
 
 export function generateOpenGraphTags(meta: MetaData): string {
   const baseUrl = 'https://jeddah-moving.com';
-  const defaultImage = `${baseUrl}/images/hero-image.jpg`;
+  const defaultImage = `${baseUrl}/images/furniture_transportation_jeddah_specialists_saudi.jpg`;
   
   return `
     <meta property="og:title" content="${meta.title}" />

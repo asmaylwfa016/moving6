@@ -75,13 +75,13 @@ export const districts: District[] = [
   {
     id: 'naeem',
     name: 'النعيم',
-    description: 'حي متوسط يوفر خيارات سكنية متنوعة بأسعار معقولة',
+    description: 'حي النعيم من الأحياء الشعبية في جدة مع تكاليف نقل متوسطة، يحتاج لتخطيط جيد للنقل.',
     features: ['أسعار معقولة', 'خيارات متنوعة', 'خدمات أساسية', 'مواصلات جيدة'],
     priceRange: {
       apartment: { min: 1500, max: 2500 },
       villa: { min: 3000, max: 5000 }
     },
-    image: '/images/jeddah_home_moving_1.jpg',
+    image: '/images/furniture_transportation_jeddah_specialists_saudi.jpg',
     location: 'center'
   },
   {
@@ -99,13 +99,13 @@ export const districts: District[] = [
   {
     id: 'khalidiyah',
     name: 'الخالدية',
-    description: 'حي تجاري وسكني نشط يضم العديد من المحلات والخدمات',
+    description: 'حي الخالدية من الأحياء التجارية المهمة في جدة مع تحديات نقل متوسطة وتكلفة معقولة.',
     features: ['نشاط تجاري', 'خدمات متنوعة', 'مواصلات ممتازة', 'حيوية عالية'],
     priceRange: {
       apartment: { min: 1600, max: 2700 },
       villa: { min: 3800, max: 6500 }
     },
-    image: '/images/best_moving_company_jeddah_2.jpg',
+    image: '/images/jeddah_furniture_moving_company_ksa.jpg',
     location: 'center'
   },
   {

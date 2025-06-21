@@ -72,6 +72,11 @@ export async function GET() {
     <lastmod>${today}</lastmod>
     <changefreq>${getChangeFreq('about')}</changefreq>
     <priority>${getPagePriority('about')}</priority>
+    <image:image>
+      <image:loc>${baseUrl}/images/furniture_transportation_jeddah_specialists_saudi.jpg</image:loc>
+      <image:title>خدمات نقل العفش في جدة</image:title>
+      <image:caption>منصة مقارنة أسعار نقل العفش في جدة</image:caption>
+    </image:image>
   </url>
   
   <url>
@@ -92,7 +97,7 @@ export async function GET() {
     <changefreq>${getChangeFreq('companies')}</changefreq>
     <priority>${getPagePriority('companies')}</priority>
     <image:image>
-      <image:loc>${baseUrl}/images/best_moving_company_jeddah_1.jpg</image:loc>
+      <image:loc>${baseUrl}/images/jeddah_furniture_moving_company_ksa.jpg</image:loc>
       <image:title>أفضل شركات نقل العفش في جدة</image:title>
       <image:caption>مقارنة شاملة لأفضل شركات نقل العفش في جدة مع التقييمات والأسعار</image:caption>
     </image:image>
