@@ -48,7 +48,14 @@ const imageMap: Record<string, string> = {
   'best_moving_company_jeddah_2.jpg': '/images/jeddah_moving_furniture_services_ksa.jpg',
   'expert_moving_advice_jeddah.jpg': '/images/furniture_transportation_jeddah_saudi.jpg',
   'unmatched_moving_services_jeddah.jpg': '/images/interstate_moving_planning_jeddah_ksa.jpg',
-  'honest_excellent_moving_service_jeddah.jpg': '/images/jeddah_furniture_moving_solutions_saudi.jpg'
+  'honest_excellent_moving_service_jeddah.jpg': '/images/jeddah_furniture_moving_solutions_saudi.jpg',
+  
+  // Missing images that appear in 404 errors
+  'jeddah_moving_bidding_war.jpg': '/images/furniture_transportation_specialists_jeddah.jpg',
+  'saudi_arabia_relocation_services_1.jpg': '/images/interstate_moving_planning_jeddah_ksa.jpg',
+  'best_movers_jeddah_contact.jpg': '/images/jeddah_furniture_moving_company_ksa.jpg',
+  'jeddah_house_removals_red_flags.jpg': '/images/moving_anxiety_guide_jeddah.jpg',
+  'How to Choose the Best Movers for Your Move – A Step-by-Step Guide.jpg': '/images/moving_tips_stress_free_guide.jpg'
 };
 
 export function getImageSrc(imagePath: string): string {

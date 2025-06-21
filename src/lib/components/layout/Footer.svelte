@@ -28,19 +28,20 @@
       { title: 'حاسبة التكلفة', href: '/calculator', icon: '🧮' },
       { title: 'أسعار النقل', href: '/pricing', icon: '💰' },
       { title: 'أحياء جدة', href: '/districts', icon: '🏘️' },
-      { title: 'دليل الشركات', href: '/companies', icon: '🚛' }
+      { title: 'مقارنة الشركات', href: '/compare', icon: '⚖️' },
+      { title: 'شركات النقل', href: '/companies', icon: '🚛' }
     ],
     resources: [
-      { title: 'دليل النقل الشامل', href: '/blog/complete-moving-guide', icon: '📖' },
-      { title: 'نصائح التوفير', href: '/blog/money-saving-tips', icon: '💡' },
-      { title: 'التأمين والحماية', href: '/blog/insurance-guide', icon: '🛡️' },
-      { title: 'الأسئلة الشائعة', href: '/faq', icon: '❓' }
+      { title: 'المدونة', href: '/blog', icon: '📝' },
+      { title: 'نصائح النقل', href: '/blog/moving-tips', icon: '💡' },
+      { title: 'التعليمات', href: '/faq', icon: '❓' },
+      { title: 'الخريطة', href: '/map', icon: '🗺️' },
+      { title: 'من نحن', href: '/about', icon: 'ℹ️' }
     ],
-    company: [
-      { title: 'من نحن', href: '/about', icon: 'ℹ️' },
-      { title: 'تواصل معنا', href: '/contact', icon: '📞' },
+    legal: [
+      { title: 'شروط الاستخدام', href: '/terms', icon: '📋' },
       { title: 'سياسة الخصوصية', href: '/privacy', icon: '🔒' },
-      { title: 'شروط الاستخدام', href: '/terms', icon: '📋' }
+      { title: 'اتصل بنا', href: '/contact', icon: '📞' }
     ]
   };
   
@@ -247,7 +248,7 @@
               الشركة
             </h4>
             <ul class="space-y-3">
-              {#each footerLinks.company as link}
+              {#each footerLinks.legal as link}
                 <li>
                   <a 
                     href={link.href} 
