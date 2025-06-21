@@ -18,7 +18,7 @@ const imageMap: Record<string, string> = {
   'best_local_movers_jeddah_1.jpg': '/images/furniture_removal_jeddah_city_professionals.jpg',
   'best_local_movers_jeddah_2.jpg': '/images/jeddah_furniture_relocation_specialists.jpg',
   'best_local_movers_jeddah_3.jpg': '/images/jeddah_furniture_movers_specialists_ksa.jpg',
-  'efficient_unpacking_jeddah.jpg': '/images/household_furniture_relocation_jeddah.jpg',
+  'efficient_unpacking_jeddah.jpg': '/images/moving_tips_stress_free_guide.jpg', // Changed from missing file
   'long_distance_movers_jeddah.jpg': '/images/long_distance_moving_jeddah_experts.jpg',
   
   // Storage and packing

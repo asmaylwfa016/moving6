@@ -31,6 +31,24 @@
     cache-control = "public, max-age=31536000"
 
 [[headers]]
+  for = "/images/*"
+  [headers.values]
+    cache-control = "public, max-age=31536000"
+    Access-Control-Allow-Origin = "*"
+
+[[headers]]
+  for = "/*.jpg"
+  [headers.values]
+    cache-control = "public, max-age=31536000"
+    Access-Control-Allow-Origin = "*"
+
+[[headers]]
+  for = "/*.png"
+  [headers.values]
+    cache-control = "public, max-age=31536000"
+    Access-Control-Allow-Origin = "*"
+
+[[headers]]
   for = "/*"
   [headers.values]
     X-Frame-Options = "DENY"
