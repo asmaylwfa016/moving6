@@ -215,7 +215,7 @@
     
     htmlContent = content;
     readTime = 8;
-    coverImage = currentPost?.image || '/images/jeddah_movers_1.jpg';
+    coverImage = currentPost?.image || '/images/jeddah_furniture_moving_specialists.jpg';
     extractTOC(htmlContent);
   }
 
@@ -241,7 +241,7 @@
     <meta property="og:description" content={currentPost.summary} />
     <meta property="og:type" content="article" />
     <meta property="article:published_time" content={currentPost.date} />
-    <meta property="og:image" content={coverImage || '/images/jeddah_movers_1.jpg'} />
+    <meta property="og:image" content={coverImage || '/images/jeddah_furniture_moving_specialists.jpg'} />
   {/if}
 </svelte:head>
 
@@ -257,7 +257,7 @@
   <main dir="rtl" class="bg-gray-50 font-sans">
     <!-- Hero -->
     <section class="relative h-72 md:h-96">
-      <img src={coverImage || '/images/jeddah_movers_1.jpg'} alt={currentPost.title} class="absolute inset-0 w-full h-full object-cover opacity-70" />
+      <img src={coverImage || '/images/jeddah_furniture_moving_specialists.jpg'} alt={currentPost.title} class="absolute inset-0 w-full h-full object-cover opacity-70" />
       <div class="absolute inset-0 bg-gradient-to-b from-black/70 to-black/30"></div>
       <div class="relative z-10 flex items-center justify-center h-full">
         <div class="text-center text-white space-y-4 px-4">

@@ -11,7 +11,7 @@ const customContent = `
     </div>
   </header>
 
-  <img src="/images/overwhelming_moving_jeddah.jpg" alt="استراتيجيات النقل في موسم الذروة بجدة" class="w-full rounded-lg shadow-lg mb-8" />
+  <img src="/images/moving_solutions_guide_jeddah.jpg" alt="استراتيجيات النقل في موسم الذروة بجدة" class="w-full rounded-lg shadow-lg mb-8" />
 
   <section class="mb-8">
     <h2 class="text-2xl font-bold mb-4">مقدمة: تحدي الذروة الكبير</h2>

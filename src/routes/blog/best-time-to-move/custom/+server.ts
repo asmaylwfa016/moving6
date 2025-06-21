@@ -11,7 +11,7 @@ const customContent = `
     </div>
   </header>
 
-  <img src="/images/jeddah_city_moving_tips.jpg" alt="أفضل وقت لنقل العفش في جدة" class="w-full rounded-lg shadow-lg mb-8" />
+  <img src="/images/furniture_transportation_services_jeddah_saudi.jpg" alt="أفضل وقت لنقل العفش في جدة" class="w-full rounded-lg shadow-lg mb-8" />
 
   <section class="mb-8">
     <p class="lead">

@@ -11,7 +11,7 @@ const customContent = `
     </div>
   </header>
 
-  <img src="/images/expert_moving_advice_jeddah.jpg" alt="التكاليف الخفية في نقل العفش بجدة" class="w-full rounded-lg shadow-lg mb-8" />
+  <img src="/images/furniture_transportation_jeddah_saudi.jpg" alt="التكاليف الخفية في نقل العفش بجدة" class="w-full rounded-lg shadow-lg mb-8" />
 
   <section class="mb-8">
     <p class="lead">

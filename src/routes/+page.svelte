@@ -62,7 +62,7 @@
   <section
     class="relative isolate overflow-hidden bg-gradient-to-b from-green-50 to-white py-16 lg:py-24">
     <div
-      class="absolute inset-0 -z-10 bg-[url('/images/jeddah_moving_supply_chain.jpg')] bg-cover bg-center opacity-10"></div>
+      class="absolute inset-0 -z-10 bg-[url('/images/jeddah_furniture_moving_specialists.jpg')] bg-cover bg-center opacity-10"></div>
     <div class="absolute inset-0 -z-10 bg-gradient-to-t from-white via-white/80 to-transparent"></div>
 
     <div class="container mx-auto px-4 flex flex-col lg:flex-row items-center gap-12">

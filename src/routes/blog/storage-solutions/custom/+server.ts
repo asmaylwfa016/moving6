@@ -11,7 +11,7 @@ const customContent = `
 		</div>
 	</header>
 
-	<img src="/images/jeddah_storage_companies.jpg" alt="حلول التخزين الذكية في جدة" class="w-full rounded-lg shadow-lg mb-8" />
+	<img src="/images/furniture_storage_moving_jeddah.jpg" alt="حلول التخزين الذكية في جدة" class="w-full rounded-lg shadow-lg mb-8" />
 
 	<section class="mb-8">
 		<p class="lead">

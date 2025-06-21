@@ -57,7 +57,7 @@ export const districts: District[] = [
       apartment: { min: 2000, max: 3400 },
       villa: { min: 4000, max: 6500 }
     },
-    image: '/images/expert_moving_advice_jeddah.jpg',
+    image: '/images/furniture_transportation_jeddah_specialists_saudi.jpg',
     location: 'north'
   },
   {
@@ -129,7 +129,7 @@ export const districts: District[] = [
       apartment: { min: 1900, max: 3300 },
       villa: { min: 4500, max: 7500 }
     },
-    image: '/images/best_local_movers_jeddah_3.jpg',
+    image: '/images/jeddah_furniture_movers_specialists_ksa.jpg',
     location: 'north'
   },
   {
@@ -153,7 +153,7 @@ export const districts: District[] = [
       apartment: { min: 1500, max: 2600 },
       villa: { min: 3400, max: 5800 }
     },
-    image: '/images/moving_anxiety_jeddah.jpg',
+    image: '/images/moving_anxiety_guide_jeddah.jpg',
     location: 'center'
   },
   {
@@ -177,7 +177,7 @@ export const districts: District[] = [
       apartment: { min: 2000, max: 3500 },
       villa: { min: 4800, max: 8200 }
     },
-    image: '/images/overwhelming_moving_jeddah.jpg',
+    image: '/images/moving_solutions_guide_jeddah.jpg',
     location: 'north'
   },
   {
@@ -189,7 +189,7 @@ export const districts: District[] = [
       apartment: { min: 1400, max: 2300 },
       villa: { min: 3000, max: 5200 }
     },
-    image: '/images/jeddah_storage_companies.jpg',
+    image: '/images/furniture_storage_moving_jeddah.jpg',
     location: 'center'
   },
   {
@@ -201,7 +201,7 @@ export const districts: District[] = [
       apartment: { min: 1500, max: 2500 },
       villa: { min: 3200, max: 5500 }
     },
-    image: '/images/jeddah_moving_box_design.jpg',
+    image: '/images/jeddah_furniture_moving_specialists.jpg',
     location: 'center'
   },
   {
@@ -213,7 +213,7 @@ export const districts: District[] = [
       apartment: { min: 1300, max: 2200 },
       villa: { min: 2800, max: 4800 }
     },
-    image: '/images/jeddah_old_furniture_removal.jpg',
+    image: '/images/furniture_removal_services_jeddah.jpg',
     location: 'center'
   },
   {
@@ -225,7 +225,7 @@ export const districts: District[] = [
       apartment: { min: 1200, max: 2100 },
       villa: { min: 2600, max: 4500 }
     },
-    image: '/images/Reliable Removalists in Kogarah – Starting at $140_h!.jpg',
+    image: '/images/moving_anxiety_guide_jeddah.jpg',
     location: 'center'
   },
   {
@@ -255,25 +255,25 @@ export const districts: District[] = [
   {
     id: 'kandarah',
     name: 'الكندرة',
-    description: 'حي سكني هادئ يناسب العائلات مع خدمات أساسية متوفرة',
+    description: 'حي هادئ وسكني بطابع تقليدي',
     features: ['هدوء وراحة', 'مناسب للعائلات', 'خدمات متوفرة', 'أسعار مقبولة'],
     priceRange: {
       apartment: { min: 1300, max: 2200 },
       villa: { min: 2900, max: 4900 }
     },
-    image: '/images/reliable_furniture_transport_jeddah.jpg',
+    image: '/images/furniture_transportation_jeddah_specialists_saudi.jpg',
     location: 'center'
   },
   {
     id: 'jamia',
     name: 'الجامعة',
-    description: 'حي قريب من جامعة الملك عبد العزيز مع أجواء طلابية نشطة',
+    description: 'حي حيوي بالقرب من جامعة الملك عبد العزيز',
     features: ['قرب الجامعة', 'أجواء طلابية', 'خدمات تعليمية', 'مواصلات جيدة'],
     priceRange: {
       apartment: { min: 1400, max: 2400 },
       villa: { min: 3100, max: 5300 }
     },
-    image: '/images/jeddah_furniture_movers_1.jpg',
+    image: '/images/jeddah_furniture_movers_professional.jpg',
     location: 'center'
   },
   {
@@ -297,7 +297,7 @@ export const districts: District[] = [
       apartment: { min: 1600, max: 2700 },
       villa: { min: 3500, max: 6000 }
     },
-    image: '/images/fast_easy_moving_jeddah.jpg',
+    image: '/images/jeddah_furniture_transportation_services.jpg',
     location: 'center'
   },
   {
@@ -315,13 +315,13 @@ export const districts: District[] = [
   {
     id: 'amir-fawaz',
     name: 'الأمير فواز',
-    description: 'حي راقي يحمل اسم الأمير فواز ويتميز بالفخامة والخدمات المتميزة',
+    description: 'حي سكني حديث ومنظم',
     features: ['طابع راقي', 'خدمات متميزة', 'موقع مرموق', 'بيئة فاخرة'],
     priceRange: {
       apartment: { min: 2100, max: 3600 },
       villa: { min: 5000, max: 8500 }
     },
-    image: '/images/jeddah_moving_stencils.jpg',
+    image: '/images/furniture_transportation_jeddah_specialists_saudi.jpg',
     location: 'north'
   }
 ];
