@@ -11,7 +11,7 @@ const customContent = `
     </div>
   </header>
 
-  <img src="/images/jeddah_moving_company_1.jpg" alt="تأثير موسم الحج والعمرة على نقل العفش في جدة" class="w-full rounded-lg shadow-lg mb-8" />
+  <img src="/images/furniture_transport_solutions_jeddah.jpg" alt="تأثير موسم الحج والعمرة على نقل العفش في جدة" class="w-full rounded-lg shadow-lg mb-8" />
 
   <section class="mb-8">
     <p class="lead">

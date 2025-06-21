@@ -21,7 +21,7 @@ export const districts: District[] = [
       apartment: { min: 1800, max: 3200 },
       villa: { min: 4500, max: 8000 }
     },
-    image: '/images/jeddah_moving_company_1.jpg',
+    image: '/images/furniture_transportation_jeddah_specialists_saudi.jpg',
     location: 'north'
   },
   {
@@ -45,7 +45,7 @@ export const districts: District[] = [
       apartment: { min: 2200, max: 3500 },
       villa: { min: 8000, max: 13000 }
     },
-    image: '/images/best_moving_company_jeddah_1.jpg',
+    image: '/images/jeddah_furniture_moving_company_ksa.jpg',
     location: 'north'
   },
   {
@@ -69,7 +69,7 @@ export const districts: District[] = [
       apartment: { min: 1600, max: 2800 },
       villa: { min: 3500, max: 6000 }
     },
-    image: '/images/money_saving_moving_hacks_saudi.jpg',
+    image: '/images/furniture_transport_solutions_jeddah.jpg',
     location: 'east'
   },
   {
@@ -117,7 +117,7 @@ export const districts: District[] = [
       apartment: { min: 1400, max: 2400 },
       villa: { min: 3200, max: 5500 }
     },
-    image: '/images/honest_excellent_moving_service_jeddah.jpg',
+    image: '/images/jeddah_furniture_moving_specialists.jpg',
     location: 'center'
   },
   {
@@ -249,7 +249,7 @@ export const districts: District[] = [
       apartment: { min: 1400, max: 2300 },
       villa: { min: 3000, max: 5000 }
     },
-    image: '/images/How to Choose the Best Movers for Your Move – A Step-by-Step Guide.jpg',
+    image: '/images/furniture_transportation_specialists_jeddah.jpg',
     location: 'center'
   },
   {

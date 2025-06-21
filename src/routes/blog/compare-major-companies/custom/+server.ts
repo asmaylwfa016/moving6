@@ -11,7 +11,7 @@ const customContent = `
     </div>
   </header>
 
-  <img src="/images/best_moving_company_jeddah_1.jpg" alt="مقارنة أفضل شركات نقل العفش في جدة" class="w-full rounded-lg shadow-lg mb-8" />
+  <img src="/images/jeddah_furniture_moving_company_ksa.jpg" alt="مقارنة أفضل شركات نقل العفش في جدة" class="w-full rounded-lg shadow-lg mb-8" />
 
   <section class="mb-8">
     <p class="lead">

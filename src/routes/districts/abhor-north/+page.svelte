@@ -18,7 +18,7 @@
 <main dir="rtl" class="bg-gray-50 font-sans">
   <!-- Hero -->
   <section class="relative h-72 md:h-96">
-    <img src="/images/best_moving_company_jeddah_1.jpg" alt={districtName} class="absolute inset-0 w-full h-full object-cover opacity-70" />
+    <img src="/images/jeddah_furniture_moving_company_ksa.jpg" alt={districtName} class="absolute inset-0 w-full h-full object-cover opacity-70" />
     <div class="absolute inset-0 bg-gradient-to-b from-black/60 to-black/30"></div>
     <div class="relative z-10 flex items-center justify-center h-full">
       <div class="text-center text-white space-y-4 px-4">

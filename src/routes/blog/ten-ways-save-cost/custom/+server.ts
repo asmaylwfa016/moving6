@@ -1,17 +1,10 @@
 import type { RequestHandler } from './$types';
 
 const customContent = `
-<article class="max-w-4xl mx-auto px-4 py-8 prose prose-lg">
-  <header class="mb-8 text-center">
-    <h1 class="text-4xl font-bold mb-4">عشر طرق ذكية لتوفير تكلفة نقل العفش في جدة</h1>
-    <div class="text-gray-600">
-      <time datetime="2025-06-04">4 يونيو 2025</time>
-      <span class="mx-2">•</span>
-      <span>12 دقيقة للقراءة</span>
-    </div>
-  </header>
-
-  <img src="/images/money_saving_moving_hacks_saudi.jpg" alt="عشر طرق توفير تكلفة نقل العفش في جدة" class="w-full rounded-lg shadow-lg mb-8" />
+<article class="max-w-4xl mx-auto px-6 py-12">
+  <h1 class="text-4xl font-bold text-gray-900 mb-6">عشر طرق مجربة لتوفير تكلفة نقل العفش في جدة</h1>
+  
+  <img src="/images/moving_day_stress_busters_guide.jpg" alt="عشر طرق توفير تكلفة نقل العفش في جدة" class="w-full rounded-lg shadow-lg mb-8" />
 
   <section class="mb-8">
     <p class="lead">

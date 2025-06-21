@@ -31,7 +31,7 @@
         </p>
       </div>
       <div>
-        <img src="/images/jeddah_moving_company_1.jpg" alt="فريق نقل عفش محترف في جدة" class="rounded-lg shadow-lg">
+        <img src="/images/furniture_transportation_jeddah_specialists_saudi.jpg" alt="فريق نقل عفش محترف في جدة" class="rounded-lg shadow-lg">
       </div>
 
       <h2 class="text-2xl font-bold mt-8 mb-3">رسالتنا</h2>

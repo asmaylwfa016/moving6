@@ -1,17 +1,10 @@
 import type { RequestHandler } from './$types';
 
 const customContent = `
-<article class="max-w-4xl mx-auto px-4 py-8 prose prose-lg">
-  <header class="mb-8 text-center">
-    <h1 class="text-4xl font-bold mb-4">دليل نقل البيت الذكي: كيف تنقل أجهزتك التقنية بأمان في جدة</h1>
-    <div class="text-gray-600">
-      <time datetime="2025-08-01">1 أغسطس 2025</time>
-      <span class="mx-2">•</span>
-      <span>16 دقيقة للقراءة</span>
-    </div>
-  </header>
-
-  <img src="/images/jeddah_moving_company_1.jpg" alt="نقل أجهزة البيت الذكي" class="w-full rounded-lg shadow-lg mb-8" />
+<article class="max-w-4xl mx-auto px-6 py-12">
+  <h1 class="text-4xl font-bold text-gray-900 mb-6">دليل نقل أجهزة البيت الذكي: نصائح تقنية للمحترفين</h1>
+  
+  <img src="/images/furniture_transportation_jeddah_specialists_saudi.jpg" alt="نقل أجهزة البيت الذكي" class="w-full rounded-lg shadow-lg mb-8" />
 
   <section class="mb-8">
     <p class="lead">
