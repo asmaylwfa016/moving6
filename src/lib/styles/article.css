@@ -1,0 +1,47 @@
+/*
+ * Professional Article Content Styles
+ */
+
+.article-content h2 {
+  @apply text-3xl font-extrabold text-gray-900 mt-12 mb-4 border-b-2 border-green-600 pb-2;
+}
+
+.article-content h3 {
+  @apply text-2xl font-bold text-gray-800 mt-8 mb-3;
+}
+
+.article-content p {
+  @apply text-lg text-gray-700 leading-relaxed mb-6;
+}
+
+.article-content ul {
+  @apply list-disc list-inside mb-6 pl-4;
+}
+
+.article-content li {
+  @apply text-lg text-gray-700 leading-relaxed mb-2;
+}
+
+.article-content a {
+  @apply text-green-700 underline hover:text-green-800;
+}
+
+.article-content blockquote {
+  @apply border-r-4 border-green-600 bg-green-50 text-gray-800 p-4 my-6 italic;
+}
+
+.article-content table {
+  @apply w-full my-6 border-collapse;
+}
+
+.article-content th, .article-content td {
+  @apply border border-gray-300 p-3 text-center;
+}
+
+.article-content th {
+  @apply bg-gray-100 font-bold;
+}
+
+.article-content small {
+    @apply text-sm text-gray-500;
+}

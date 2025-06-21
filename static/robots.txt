@@ -1,0 +1,40 @@
+User-agent: *
+Allow: /
+
+# Optimized for search engines
+Allow: /blog/
+Allow: /districts/
+Allow: /pricing/
+Allow: /companies/
+Allow: /calculator/
+Allow: /about/
+Allow: /contact/
+Allow: /faq/
+Allow: /compare/
+
+# Block unnecessary paths
+Disallow: /api/
+Disallow: /_app/
+Disallow: /static/
+Disallow: /.svelte-kit/
+Disallow: /admin/
+Disallow: /private/
+
+# Important files
+Sitemap: https://jeddah-moving.com/sitemap.xml
+
+# Crawl delay to be respectful
+Crawl-delay: 1
+
+# Special rules for different bots
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 2 
