@@ -1,0 +1,47 @@
+# تكوين Fly.io لتطبيق نقل العفش في جدة
+app = "jeddah-moving-prices"
+primary_region = "fra"  # فرانكفورت - أقرب منطقة للسعودية
+kill_signal = "SIGINT"
+kill_timeout = "5s"
+
+[experimental]
+  auto_rollback = true
+
+# تكوين البناء
+[build]
+
+# تكوين البيئة
+[env]
+  NODE_ENV = "production"
+  PORT = "3000"
+
+# تكوين HTTP service
+[http_service]
+  internal_port = 3000
+  force_https = true
+  auto_stop_machines = true
+  auto_start_machines = true
+  min_machines_running = 0
+  processes = ["app"]
+
+# تكوين الآلات الافتراضية
+[[vm]]
+  cpu_kind = "shared"
+  cpus = 1
+  memory_mb = 256
+
+# فحص الصحة
+[checks]
+  [checks.alive]
+    type = "http"
+    path = "/"
+    interval = "15s"
+    timeout = "2s"
+    grace_period = "5s"
+    method = "GET"
+    headers = {}
+
+# إعدادات الشبكة
+[metrics]
+  port = 9091
+  path = "/metrics" 
