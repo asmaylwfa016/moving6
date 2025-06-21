@@ -1,0 +1,42 @@
+{
+  "name": "jeddah-moving-prices",
+  "description": "دليل شامل لأسعار نقل العفش في جدة مع حاسبة التكلفة ومقارنة الشركات",
+  "repository": "https://github.com/asmaylwfa016/moving6",
+  "logo": "https://jeddah-moving.com/favicon-192.png",
+  "keywords": ["svelte", "sveltekit", "nodejs", "moving", "jeddah", "saudi-arabia"],
+  "stack": "heroku-22",
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ],
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "eco"
+    }
+  },
+  "env": {
+    "NODE_ENV": {
+      "description": "بيئة التشغيل",
+      "value": "production"
+    },
+    "VITE_BASE_URL": {
+      "description": "عنوان الموقع الأساسي",
+      "required": false
+    },
+    "VITE_WHATSAPP_NUMBER": {
+      "description": "رقم الواتساب للتواصل (اختياري)",
+      "value": "966501234567",
+      "required": false
+    },
+    "VITE_GA_ID": {
+      "description": "معرف Google Analytics (اختياري)",
+      "required": false
+    }
+  },
+  "scripts": {
+    "postdeploy": "echo 'تم نشر التطبيق بنجاح!'"
+  },
+  "addons": []
+} 
