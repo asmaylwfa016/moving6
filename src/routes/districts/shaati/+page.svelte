@@ -19,8 +19,8 @@
   <!-- Hero with coastal image -->
   <section class="relative h-72 md:h-96">
     <img
-      src="/images/coastal_moving_services_jeddah_shaati.jpg"
-      alt="كورنيش حي الشاطئ"
+      src="/images/jeddah_furniture_moving_specialists.jpg"
+      alt="منظر عام لحي الشاطئ"
       class="absolute inset-0 w-full h-full object-cover opacity-70" />
     <div class="absolute inset-0 bg-gradient-to-b from-black/60 to-black/30"></div>
 
@@ -50,17 +50,17 @@
       <h2 class="text-3xl font-bold text-center mb-10">تحديات النقل في {districtName}</h2>
       <div class="grid gap-8 md:grid-cols-3">
         <article class="bg-white p-6 rounded-lg shadow-lg space-y-2">
-          <img src="/images/jeddah_movers_1.jpg" alt="ازدحام الشوارع" class="rounded-md mb-3 h-40 w-full object-cover" />
+          <img src="/images/jeddah_furniture_moving_specialists.jpg" alt="ازدحام الشوارع" class="rounded-md mb-3 h-40 w-full object-cover" />
           <h3 class="font-semibold text-lg">ازدحام الكورنيش</h3>
           <p>الطرق الساحلية تشهد ازدحاماً شديداً في عطلة نهاية الأسبوع مما يبطئ عملية النقل.</p>
         </article>
         <article class="bg-white p-6 rounded-lg shadow-lg space-y-2">
-          <img src="/images/jeddah_movers_2.jpg" alt="صعوبة المواقف" class="rounded-md mb-3 h-40 w-full object-cover" />
+          <img src="/images/furniture_transportation_services_jeddah_saudi.jpg" alt="صعوبة المواقف" class="rounded-md mb-3 h-40 w-full object-cover" />
           <h3 class="font-semibold text-lg">صعوبة المواقف</h3>
           <p>محدودية المواقف قرب الأبراج السكنية تتطلب أحياناً تصاريح خاصة أو رسوم إضافية للمواقف المدفوعة.</p>
         </article>
         <article class="bg-white p-6 rounded-lg shadow-lg space-y-2">
-          <img src="/images/professional_mover_jeddah.jpg" alt="رطوبة الساحل" class="rounded-md mb-3 h-40 w-full object-cover" />
+          <img src="/images/jeddah_furniture_movers_professional.jpg" alt="رطوبة الساحل" class="rounded-md mb-3 h-40 w-full object-cover" />
           <h3 class="font-semibold text-lg">الرطوبة العالية</h3>
           <p>الرطوبة قد تؤثر على سلامة الأثاث الخشبي؛ التغليف المحكم ضروري لتجنب التلف.</p>
         </article>

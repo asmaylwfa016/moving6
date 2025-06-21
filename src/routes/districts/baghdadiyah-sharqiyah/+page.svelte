@@ -19,7 +19,7 @@
   <!-- Hero -->
   <section class="relative h-72 md:h-96">
     <img
-      src="/images/jeddah_old_furniture_removal.jpg"
+      src="/images/furniture_removal_services_jeddah.jpg"
       alt="منظر عام لحي البغدادية الشرقية"
       class="absolute inset-0 w-full h-full object-cover opacity-70" />
     <div class="absolute inset-0 bg-gradient-to-b from-black/60 to-black/30"></div>

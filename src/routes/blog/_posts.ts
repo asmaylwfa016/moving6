@@ -79,7 +79,7 @@ export const posts: BlogPost[] = [
 		summary: 'تحليل عميق للفرق بين سعر خدمة نقل العفش وقيمتها الحقيقية. تعلم كيف يمكن أن يكلفك اختيار أرخص شركة نقل أثاث في جدة أكثر على المدى الطويل، وكيف تقيّم القيمة الفعلية.',
 		date: '2025-06-12',
 		tags: ['قيمة الخدمة', 'جودة نقل العفش', 'قرار الشراء', 'نصائح مالية'],
-		image: '/images/honest_excellent_moving_service_jeddah.jpg'
+		image: '/images/jeddah_furniture_moving_specialists.jpg'
 	},
 	{
 		slug: 'family-saving-case',
@@ -87,7 +87,7 @@ export const posts: BlogPost[] = [
 		summary: 'قصة حقيقية ومفصلة لعائلة في جدة نجحت في تخفيض تكلفة نقل منزلها بنسبة 40%. اكتشف الخطوات الخمس العملية التي اتبعوها، من تقليص حجم الأثاث إلى التفاوض الذكي.',
 		date: '2025-06-13',
 		tags: ['دراسة حالة نقل عفش', 'توفير المال', 'تخفيض تكلفة النقل', 'قصص نجاح'],
-		image: '/images/jeddah_family_moving.jpg'
+		image: '/images/house_moving_less_stressful.jpg'
 	},
 	{
 		slug: 'three-families-comparison',
@@ -95,7 +95,7 @@ export const posts: BlogPost[] = [
 		summary: 'دراسة حالة واقعية تقارن تجارب ثلاث عائلات في جدة مع فئات خدمة نقل العفش المختلفة: الاقتصادية، القياسية، والمميزة. اكتشف أي فئة هي الأنسب لاحتياجاتك وميزانيتك.',
 		date: '2025-06-14',
 		tags: ['مقارنة خدمات النقل', 'دراسة حالة', 'جودة نقل العفش', 'فئات الأسعار'],
-		image: '/images/jeddah_movers_3.jpg'
+		image: '/images/jeddah_furniture_moving_company_ksa.jpg'
 	},
 	{
 		slug: 'office-move-lessons',
@@ -103,7 +103,7 @@ export const posts: BlogPost[] = [
 		summary: 'دراسة حالة واقعية تستعرض تجربة نقل مكتب شركة تقنية ناشئة في جدة. تعلم من خلال تحليل التكاليف، خطة العمل، وأهم الدروس المستفادة لضمان عملية نقل تجاري سلسة وفعالة.',
 		date: '2025-06-15',
 		tags: ['نقل المكاتب', 'دراسة حالة', 'نقل شركات', 'تخطيط لوجستي'],
-		image: '/images/jeddah_office_movers_1.jpg'
+		image: '/images/furniture_transportation_jeddah_specialists_saudi.jpg'
 	},
 	{
 		slug: 'moving-antiques',
@@ -111,7 +111,7 @@ export const posts: BlogPost[] = [
 		summary: 'كل ما تحتاج لمعرفته حول نقل القطع الثمينة والأنتيك في جدة. من تقنيات التغليف المخصصة والتأمين الشامل، إلى كيفية اختيار شركة نقل متخصصة وتكاليف الخدمة.',
 		date: '2025-06-16',
 		tags: ['نقل أثاث ثمين', 'تغليف أنتيك', 'شركات نقل متخصصة', 'تأمين المقتنيات'],
-		image: '/images/jeddah_furniture_wrapping_1.jpg'
+		image: '/images/furniture_transportation_specialists_jeddah.jpg'
 	},
 	{
 		slug: 'storage-costs',
@@ -119,7 +119,7 @@ export const posts: BlogPost[] = [
 		summary: 'دليل شامل يقارن بين خيارات وأسعار تخزين الأثاث في جدة لعام 2025. اكتشف أنواع المستودعات، متوسط التكاليف، والعوامل الحاسمة لاختيار خدمة التخزين الأنسب لك.',
 		date: '2025-06-17',
 		tags: ['تخزين أثاث بجدة', 'أسعار التخزين', 'مستودعات تخزين', 'تخزين آمن'],
-		image: '/images/jeddah_storage_companies.jpg'
+		image: '/images/furniture_storage_solutions_jeddah_ksa.jpg'
 	},
 	{
 		slug: 'diy-vs-pro',
@@ -127,7 +127,7 @@ export const posts: BlogPost[] = [
 		summary: 'هل تفكر في نقل أثاثك بنفسك لتوفير المال؟ تحليل مفصل يقارن بين التكاليف الحقيقية والمخاطر الخفية للنقل الذاتي (DIY) مقابل الاستعانة بشركة نقل متخصصة في جدة.',
 		date: '2025-06-18',
 		tags: ['نقل عفش DIY', 'شركة نقل عفش', 'مقارنة التكاليف', 'قرار النقل'],
-		image: '/images/reliable_movers_jeddah.jpg'
+		image: '/images/furniture_transportation_jeddah_specialists_saudi.jpg'
 	},
 	{
 		slug: 'furniture-protection-guide',
@@ -135,7 +135,7 @@ export const posts: BlogPost[] = [
 		summary: 'تعلم أحدث تقنيات حماية وتغليف الأثاث المستخدمة في 2025. من المواد المبتكرة إلى الأساليب الاحترافية، دليلك الشامل لنقل آمن بدون خدوش أو كسور.',
 		date: '2025-06-19',
 		tags: ['حماية الأثاث', 'تقنيات التغليف', 'نقل آمن', 'مواد التغليف'],
-		image: '/images/protect_furniture_moving_jeddah.jpg'
+		image: '/images/furniture_transportation_specialists_jeddah_saudi.jpg'
 	},
 	{
 		slug: 'peak-season-moving-strategies',
@@ -143,7 +143,7 @@ export const posts: BlogPost[] = [
 		summary: 'دليل متخصص للتعامل مع مواسم الذروة في نقل العفش بجدة. اكتشف متى تكون الأوقات الأكثر ازدحاماً، وكيف تحجز مبكراً، واستراتيجيات التوفير الذكية خلال هذه الفترات.',
 		date: '2025-06-20',
 		tags: ['موسم الذروة', 'حجز مبكر', 'استراتيجيات التوفير', 'أوقات مزدحمة'],
-		image: '/images/overwhelming_moving_jeddah.jpg'
+		image: '/images/moving_day_stress_busters_guide.jpg'
 	},
 	{
 		slug: 'eco-friendly-moving-jeddah',
@@ -151,7 +151,7 @@ export const posts: BlogPost[] = [
 		summary: 'اكتشف كيف تجعل عملية نقل أثاثك صديقة للبيئة. من استخدام مواد تغليف قابلة لإعادة التدوير إلى اختيار شركات نقل خضراء، دليلك للنقل المستدام في جدة.',
 		date: '2025-06-21',
 		tags: ['نقل صديق للبيئة', 'استدامة', 'تغليف أخضر', 'مسؤولية بيئية'],
-		image: '/images/moving_boxes_jeddah.jpg'
+		image: '/images/jeddah_furniture_moving_specialists.jpg'
 	},
 	{
 		slug: 'insurance-claims-moving',
@@ -159,7 +159,7 @@ export const posts: BlogPost[] = [
 		summary: 'كل ما تحتاج معرفته عن التأمين على الأثاث أثناء النقل. تعرف على أنواع التغطية، كيفية توثيق الأضرار، وخطوات المطالبة بالتعويض في حالة حدوث ضرر.',
 		date: '2025-06-22',
 		tags: ['تأمين نقل العفش', 'حقوق العملاء', 'تعويضات', 'توثيق الأضرار'],
-		image: '/images/safe_moving_jeddah.jpg'
+		image: '/images/furniture_transportation_jeddah_specialists_saudi.jpg'
 	},
 	{
 		slug: 'last-minute-moving-tips',
@@ -167,7 +167,7 @@ export const posts: BlogPost[] = [
 		summary: 'هل تحتاج للنقل بشكل عاجل؟ إليك دليل النجاة للنقل في اللحظة الأخيرة. نصائح عملية، أرقام طوارئ، وخطة عمل سريعة لنقل ناجح رغم ضيق الوقت.',
 		date: '2025-06-24',
 		tags: ['نقل عاجل', 'نصائح سريعة', 'خطة طوارئ', 'نقل مفاجئ'],
-		image: '/images/fast_easy_moving_jeddah.jpg'
+		image: '/images/moving_tips_stress_free_guide.jpg'
 	},
 	{
 		slug: 'moving-elderly-guide',
@@ -175,7 +175,7 @@ export const posts: BlogPost[] = [
 		summary: 'دليل حساس ومتخصص لمساعدة كبار السن في النقل. من التخطيط العاطفي إلى الترتيبات اللوجستية، تعلم كيف تجعل التجربة أسهل وأكثر راحة لأحبائك.',
 		date: '2025-06-25',
 		tags: ['نقل كبار السن', 'رعاية خاصة', 'نصائح عائلية', 'راحة وأمان'],
-		image: '/images/jeddah_couple_moving.jpg'
+		image: '/images/house_moving_less_stressful.jpg'
 	},
 	{
 		slug: 'luxury-furniture-moving',
@@ -183,7 +183,7 @@ export const posts: BlogPost[] = [
 		summary: 'بروتوكولات خاصة لنقل الأثاث الفاخر والتحف الفنية. من التقييم المسبق إلى التغليف المتخصص والنقل الآمن، دليلك لحماية استثماراتك الثمينة.',
 		date: '2025-06-27',
 		tags: ['أثاث فاخر', 'نقل VIP', 'قطع ثمينة', 'بروتوكولات خاصة'],
-		image: '/images/unmatched_moving_services_jeddah.jpg'
+		image: '/images/furniture_transportation_jeddah_specialists_saudi.jpg'
 	},
 	{
 		slug: 'moving-disputes-resolution',
@@ -199,7 +199,7 @@ export const posts: BlogPost[] = [
 		summary: 'قائمة مهام منظمة زمنياً لنقل العفش في جدة. من 8 أسابيع قبل النقل حتى يوم الانتقال، دليلك الشامل لعملية نقل منظمة وخالية من التوتر.',
 		date: '2025-06-29',
 		tags: ['التخطيط للنقل', 'قائمة مهام', 'جدول زمني', 'تنظيم النقل'],
-		image: '/images/jeddah_packing_tips.jpg'
+		image: '/images/moving_tips_stress_free_guide.jpg'
 	},
 	{
 		slug: 'moving-with-kids',
@@ -207,7 +207,7 @@ export const posts: BlogPost[] = [
 		summary: 'اكتشف كيف تجعل تجربة نقل العفش سهلة وممتعة للأطفال. نصائح عملية من خبراء نقل الأثاث في جدة لمساعدة العائلات على الانتقال بسلاسة.',
 		date: '2025-06-30',
 		tags: ['نصائح عائلية', 'نقل مع الأطفال', 'نصائح نقل الأثاث', 'التخطيط العائلي'],
-		image: '/images/jeddah_family_moving.jpg'
+		image: '/images/house_moving_less_stressful.jpg'
 	},
 	{
 		slug: 'moving-pets-guide',
@@ -215,7 +215,7 @@ export const posts: BlogPost[] = [
 		summary: 'دليل شامل لنقل الحيوانات الأليفة بأمان أثناء نقل العفش في جدة. نصائح عملية للقطط والكلاب والطيور لضمان تجربة خالية من التوتر.',
 		date: '2025-07-01',
 		tags: ['نصائح عائلية', 'نقل الحيوانات', 'نقل آمن', 'رعاية الحيوانات'],
-		image: '/images/safe_moving_jeddah.jpg'
+		image: '/images/furniture_transportation_jeddah_specialists_saudi.jpg'
 	},
 	{
 		slug: 'summer-moving-tips',
@@ -223,7 +223,7 @@ export const posts: BlogPost[] = [
 		summary: 'دليل شامل لنقل العفش في فصل الصيف الحار بجدة. نصائح عملية للحفاظ على سلامتك وسلامة أثاثك في درجات الحرارة المرتفعة.',
 		date: '2025-07-02',
 		tags: ['أفضل وقت لنقل العفش', 'نصائح الصيف', 'نصائح نقل الأثاث', 'السلامة'],
-		image: '/images/moving_day_stress_hacks_jeddah.jpg'
+		image: '/images/moving_day_stress_busters_guide.jpg'
 	},
 	{
 		slug: 'packing-materials-guide',
@@ -231,7 +231,7 @@ export const posts: BlogPost[] = [
 		summary: 'اكتشف أفضل مواد التغليف لحماية أثاثك أثناء النقل. دليل مفصل لأنواع المواد، استخداماتها، وأين تجدها في جدة بأفضل الأسعار.',
 		date: '2025-07-03',
 		tags: ['مواد التغليف', 'حماية الأثاث', 'تعبئة احترافية', 'نصائح التغليف'],
-		image: '/images/jeddah_packing_services_1.jpg'
+		image: '/images/jeddah_furniture_moving_specialists.jpg'
 	},
 	{
 		slug: 'small-apartment-moving',
@@ -239,7 +239,7 @@ export const posts: BlogPost[] = [
 		summary: 'دليل متخصص لنقل الشقق الصغيرة والاستوديوهات في جدة. نصائح لتوفير المال والمساحة، مع حلول ذكية للتحديات الخاصة.',
 		date: '2025-07-04',
 		tags: ['توفير المال', 'شقق صغيرة', 'نصائح نقل الأثاث', 'حلول ذكية'],
-		image: '/images/jeddah_apartment_moving_1.jpg'
+		image: '/images/jeddah_furniture_moving_specialists.jpg'
 	},
 	{
 		slug: 'furniture-disassembly-guide',
@@ -247,7 +247,7 @@ export const posts: BlogPost[] = [
 		summary: 'دليل شامل لفك وتركيب جميع أنواع الأثاث بطريقة صحيحة وآمنة. نصائح احترافية لحماية أثاثك وتوفير الوقت والجهد.',
 		date: '2025-07-05',
 		tags: ['فك وتركيب الأثاث', 'حماية الأثاث', 'نصائح احترافية', 'أدوات النقل'],
-		image: '/images/jeddah_furniture_carpenter.jpg'
+		image: '/images/furniture_transportation_jeddah_specialists_saudi.jpg'
 	},
 	{
 		slug: 'moving-insurance-guide',
@@ -255,7 +255,7 @@ export const posts: BlogPost[] = [
 		summary: 'كل ما تحتاج معرفته عن التأمين على نقل العفش. أنواع التغطيات، التكاليف، كيفية المطالبة بالتعويض، ونصائح لحماية ممتلكاتك.',
 		date: '2025-07-06',
 		tags: ['التأمين والضمانات', 'حماية الأثاث', 'حقوق العملاء', 'تعويضات'],
-		image: '/images/reliable_movers_jeddah.jpg'
+		image: '/images/furniture_transportation_jeddah_specialists_saudi.jpg'
 	},
 	{
 		slug: 'office-moving-guide',
@@ -263,7 +263,7 @@ export const posts: BlogPost[] = [
 		summary: 'دليل متخصص لنقل المكاتب والشركات في جدة. تخطيط استراتيجي، تقليل فترة التوقف، نصائح لنقل المعدات المكتبية والملفات الحساسة.',
 		date: '2025-07-07',
 		tags: ['نقل المكاتب', 'تخطيط استراتيجي', 'نقل الشركات', 'استمرارية الأعمال'],
-		image: '/images/jeddah_office_movers_1.jpg'
+		image: '/images/furniture_transportation_jeddah_specialists_saudi.jpg'
 	},
 	{
 		slug: 'eco-friendly-moving',
@@ -271,7 +271,7 @@ export const posts: BlogPost[] = [
 		summary: 'اكتشف كيف تجعل عملية نقل العفش صديقة للبيئة. نصائح عملية لتقليل النفايات وإعادة التدوير.',
 		date: '2025-07-08',
 		tags: ['نصائح نقل الأثاث', 'توفير المال', 'البيئة', 'إعادة التدوير'],
-		image: '/images/jeddah_moving_box_design.jpg'
+		image: '/images/jeddah_furniture_moving_specialists.jpg'
 	},
 	{
 		slug: 'long-distance-moving',
@@ -279,7 +279,7 @@ export const posts: BlogPost[] = [
 		summary: 'دليل شامل للنقل بين المدن من وإلى جدة. نصائح للتخطيط، التغليف الآمن، اختيار الشركة المناسبة، وضمان وصول أثاثك بأمان.',
 		date: '2025-07-09',
 		tags: ['التخطيط للنقل', 'نصائح نقل الأثاث', 'نقل بين المدن', 'السفر والنقل'],
-		image: '/images/long_distance_movers_jeddah.jpg'
+		image: '/images/long_distance_moving_jeddah_experts.jpg'
 	},
 	{
 		slug: 'storage-solutions',
@@ -287,7 +287,7 @@ export const posts: BlogPost[] = [
 		summary: 'دليل شامل لخيارات التخزين المؤقت في جدة أثناء نقل العفش. أنواع المستودعات، الأسعار، نصائح الحماية، وكيفية اختيار الحل المناسب.',
 		date: '2025-07-10',
 		tags: ['التخزين المؤقت', 'نصائح نقل الأثاث', 'مستودعات التخزين', 'حفظ الأثاث'],
-		image: '/images/jeddah_storage_companies.jpg'
+		image: '/images/furniture_storage_solutions_jeddah_ksa.jpg'
 	},
 	{
 		slug: 'moving-seniors',
@@ -295,6 +295,6 @@ export const posts: BlogPost[] = [
 		summary: 'دليل متخصص لمساعدة كبار السن في نقل العفش. نصائح للتخطيط، الدعم العاطفي، السلامة، وجعل التجربة أقل إرهاقاً.',
 		date: '2025-07-11',
 		tags: ['نصائح عائلية', 'التخطيط للنقل', 'كبار السن', 'الرعاية الخاصة'],
-		image: '/images/jeddah_couple_moving.jpg'
+		image: '/images/house_moving_less_stressful.jpg'
 	}
 ];

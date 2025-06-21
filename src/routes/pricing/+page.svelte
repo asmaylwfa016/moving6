@@ -22,7 +22,7 @@
     <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-4">
       <!-- Economy -->
       <article class="bg-white rounded-xl shadow p-6 flex flex-col">
-        <img src="/images/jeddah_movers_1.jpg" alt="خدمة نقل اقتصادية" class="rounded-md mb-4">
+        <img src="/images/jeddah_furniture_moving_specialists.jpg" alt="خدمة نقل اقتصادية" class="rounded-md mb-4">
         <h2 class="text-xl font-bold mb-2 text-green-700">اقتصادية</h2>
         <p class="mb-4 text-sm text-gray-600">أسعار من 500 – 1000 ر.س</p>
         <ul class="list-disc pr-5 space-y-2 flex-1">
@@ -35,7 +35,7 @@
 
       <!-- Standard -->
       <article class="bg-white rounded-xl shadow p-6 flex flex-col">
-        <img src="/images/jeddah_movers_2.jpg" alt="خدمة نقل قياسية" class="rounded-md mb-4">
+        <img src="/images/furniture_transportation_services_jeddah_saudi.jpg" alt="خدمة نقل قياسية" class="rounded-md mb-4">
         <h2 class="text-xl font-bold mb-2 text-blue-700">قياسية</h2>
         <p class="mb-4 text-sm text-gray-600">أسعار من 1000 – 2000 ر.س</p>
         <ul class="list-disc pr-5 space-y-2 flex-1">
@@ -48,7 +48,7 @@
 
       <!-- Premium -->
       <article class="bg-white rounded-xl shadow p-6 flex flex-col">
-        <img src="/images/jeddah_movers_3.jpg" alt="خدمة نقل مميزة" class="rounded-md mb-4">
+        <img src="/images/jeddah_furniture_movers_professional.jpg" alt="خدمة نقل مميزة" class="rounded-md mb-4">
         <h2 class="text-xl font-bold mb-2 text-purple-700">مميزة</h2>
         <p class="mb-4 text-sm text-gray-600">أسعار من 2000 – 3500 ر.س</p>
         <ul class="list-disc pr-5 space-y-2 flex-1">
@@ -61,7 +61,7 @@
 
       <!-- VIP -->
       <article class="bg-white rounded-xl shadow p-6 flex flex-col">
-        <img src="/images/jeddah_movers_4.jpg" alt="خدمة نقل فاخرة" class="rounded-md mb-4">
+        <img src="/images/furniture_removal_services_jeddah.jpg" alt="خدمة نقل فاخرة" class="rounded-md mb-4">
         <h2 class="text-xl font-bold mb-2 text-yellow-600">VIP فاخرة</h2>
         <p class="mb-4 text-sm text-gray-600">3500+ ر.س</p>
         <ul class="list-disc pr-5 space-y-2 flex-1">

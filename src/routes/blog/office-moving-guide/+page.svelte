@@ -23,7 +23,7 @@
 		</div>
 	</header>
 
-	<img src="/images/jeddah_office_movers_1.jpg" alt="نقل المكاتب" class="w-full rounded-lg shadow-lg mb-8" />
+	<img src="/images/furniture_transportation_jeddah_specialists_saudi.jpg" alt="نقل المكاتب" class="w-full rounded-lg shadow-lg mb-8" />
 
 	<section class="mb-8">
 		<p class="lead">

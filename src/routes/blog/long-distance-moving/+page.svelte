@@ -23,7 +23,7 @@
 		</div>
 	</header>
 
-	<img src="/images/long_distance_movers_jeddah.jpg" alt="النقل لمسافات طويلة" class="w-full rounded-lg shadow-lg mb-8" />
+	<img src="/images/long_distance_moving_jeddah_experts.jpg" alt="النقل لمسافات طويلة" class="w-full rounded-lg shadow-lg mb-8" />
 
 	<section class="mb-8">
 		<p class="lead">

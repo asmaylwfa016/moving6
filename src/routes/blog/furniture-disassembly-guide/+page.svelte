@@ -23,7 +23,7 @@
 		</div>
 	</header>
 
-	<img src="/images/jeddah_furniture_carpenter.jpg" alt="فك وتركيب الأثاث" class="w-full rounded-lg shadow-lg mb-8" />
+	<img src="/images/furniture_transportation_jeddah_specialists_saudi.jpg" alt="فك وتركيب الأثاث" class="w-full rounded-lg shadow-lg mb-8" />
 
 	<section class="mb-8">
 		<p class="lead">

@@ -19,7 +19,7 @@
   <!-- Hero -->
   <section class="relative h-72 md:h-96">
     <img
-      src="/images/moving_anxiety_jeddah.jpg"
+      src="/images/moving_anxiety_guide_jeddah.jpg"
       alt="منظر عام لحي السلامة"
       class="absolute inset-0 w-full h-full object-cover opacity-70" />
     <div class="absolute inset-0 bg-gradient-to-b from-black/60 to-black/30"></div>

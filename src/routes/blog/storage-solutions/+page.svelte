@@ -23,7 +23,7 @@
 		</div>
 	</header>
 
-	<img src="/images/jeddah_storage_companies.jpg" alt="حلول التخزين" class="w-full rounded-lg shadow-lg mb-8" />
+	<img src="/images/furniture_storage_solutions_jeddah_ksa.jpg" alt="حلول التخزين" class="w-full rounded-lg shadow-lg mb-8" />
 
 	<section class="mb-8">
 		<p class="lead">

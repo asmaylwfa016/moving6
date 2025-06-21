@@ -23,7 +23,7 @@
 		</div>
 	</header>
 
-	<img src="/images/jeddah_packing_tips.jpg" alt="قائمة مهام نقل العفش" class="w-full rounded-lg shadow-lg mb-8" />
+	<img src="/images/moving_tips_stress_free_guide.jpg" alt="قائمة مهام نقل العفش" class="w-full rounded-lg shadow-lg mb-8" />
 
 	<section class="mb-8">
 		<p class="lead">

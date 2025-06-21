@@ -23,7 +23,7 @@
 		</div>
 	</header>
 
-	<img src="/images/jeddah_couple_moving.jpg" alt="نقل كبار السن" class="w-full rounded-lg shadow-lg mb-8" />
+	<img src="/images/house_moving_less_stressful.jpg" alt="نقل كبار السن" class="w-full rounded-lg shadow-lg mb-8" />
 
 	<section class="mb-8">
 		<p class="lead">

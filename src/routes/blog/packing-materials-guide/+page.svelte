@@ -23,7 +23,10 @@
 		</div>
 	</header>
 
-	<img src="/images/jeddah_packing_services_1.jpg" alt="مواد تغليف العفش" class="w-full rounded-lg shadow-lg mb-8" />
+	<!-- Hero -->
+	<section class="relative h-72 md:h-96">
+		<img src="/images/jeddah_furniture_moving_specialists.jpg" alt="مواد تغليف العفش" class="w-full rounded-lg shadow-lg mb-8" />
+	</section>
 
 	<section class="mb-8">
 		<p class="lead">

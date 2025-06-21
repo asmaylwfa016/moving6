@@ -91,17 +91,17 @@
       <h2 class="text-3xl font-bold mb-8 text-center">العوامل المؤثرة في السعر</h2>
       <div class="grid gap-8 md:grid-cols-3">
         <article class="bg-white p-6 rounded-lg shadow-lg space-y-2">
-          <img src="/images/best_local_movers_jeddah_1.jpg" alt="المصعد" class="rounded-md mb-3 h-40 w-full object-cover" />
+          <img src="/images/jeddah_furniture_moving_specialists.jpg" alt="المصعد" class="rounded-md mb-3 h-40 w-full object-cover" />
           <h3 class="font-semibold text-lg">المصاعد</h3>
           <p>معظم الأبراج الحديثة مزودة بمصاعد متوسطة الحجم (عمق 1.4م) مما يسهل النقل ويقلّل التكلفة.</p>
         </article>
         <article class="bg-white p-6 rounded-lg shadow-lg space-y-2">
-          <img src="/images/best_local_movers_jeddah_2.jpg" alt="السلالم" class="rounded-md mb-3 h-40 w-full object-cover" />
+          <img src="/images/furniture_transportation_services_jeddah_saudi.jpg" alt="السلالم" class="rounded-md mb-3 h-40 w-full object-cover" />
           <h3 class="font-semibold text-lg">السلالم الضيقة</h3>
           <p>المباني القديمة تمتلك سلالم بعرض أقل من 1م، وقد يستلزم ذلك تفكيك القطع الكبيرة.</p>
         </article>
         <article class="bg-white p-6 rounded-lg shadow-lg space-y-2">
-          <img src="/images/efficient_unpacking_jeddah.jpg" alt="المواقف" class="rounded-md mb-3 h-40 w-full object-cover" />
+          <img src="/images/furniture_removal_services_jeddah.jpg" alt="المواقف" class="rounded-md mb-3 h-40 w-full object-cover" />
           <h3 class="font-semibold text-lg">المواقف</h3>
           <p>مواقف واسعة ومتعددة الطوابق تسمح بوقوف الشاحنات الكبيرة بسهولة.</p>
         </article>
@@ -148,12 +148,16 @@
       <h2 class="text-3xl font-bold mb-8 text-center">تجارب سكان الحي</h2>
       <div class="grid gap-8 md:grid-cols-2">
         <blockquote class="bg-white p-6 rounded-lg shadow-lg space-y-4">
-          <img src="/images/author/sara_almutairi.png" alt="Sara Almutairi" class="w-16 h-16 rounded-full mx-auto mb-4">
+          <div class="w-16 h-16 rounded-full mx-auto mb-4 bg-blue-200 flex items-center justify-center">
+            <span class="text-blue-600 font-bold text-xl">ل</span>
+          </div>
           <p class="text-center">"تم نقل أثاثي من الروضة إلى الشاطئ بسلاسة وبسعر معقول جداً!"</p>
           <footer class="text-sm text-center text-gray-500">— لمياء أحمد</footer>
         </blockquote>
         <blockquote class="bg-white p-6 rounded-lg shadow-lg space-y-4">
-          <img src="/images/author/omar_alharbi.png" alt="Omar Alharbi" class="w-16 h-16 rounded-full mx-auto mb-4">
+          <div class="w-16 h-16 rounded-full mx-auto mb-4 bg-green-200 flex items-center justify-center">
+            <span class="text-green-600 font-bold text-xl">خ</span>
+          </div>
           <p class="text-center">"الشركة وفرت لي تغليف احترافي وحافظت على كل القطع الثمينة."</p>
           <footer class="text-sm text-center text-gray-500">— خالد صالح</footer>
         </blockquote>

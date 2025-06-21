@@ -23,7 +23,7 @@
 		</div>
 	</header>
 
-	<img src="/images/moving_day_stress_hacks_jeddah.jpg" alt="نقل العفش في الصيف" class="w-full rounded-lg shadow-lg mb-8" />
+	<img src="/images/moving_day_stress_busters_guide.jpg" alt="نقل العفش في الصيف" class="w-full rounded-lg shadow-lg mb-8" />
 
 	<section class="mb-8">
 		<p class="lead">

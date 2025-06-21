@@ -50,17 +50,17 @@
       <h2 class="text-3xl font-bold text-center mb-10">خصائص المباني وتأثيرها</h2>
       <div class="grid gap-8 md:grid-cols-3">
         <article class="bg-white p-6 rounded-lg shadow-lg space-y-2">
-          <img src="/images/jeddah_movers_1.jpg" alt="المصعد" class="rounded-md mb-3 h-40 w-full object-cover" />
+          <img src="/images/jeddah_furniture_moving_specialists.jpg" alt="المصعد" class="rounded-md mb-3 h-40 w-full object-cover" />
           <h3 class="font-semibold text-lg">المصاعد</h3>
           <p>معظم الأبراج الحديثة مزودة بمصاعد متوسطة الحجم (عمق 1.4م) مما يسهل النقل ويقلّل التكلفة.</p>
         </article>
         <article class="bg-white p-6 rounded-lg shadow-lg space-y-2">
-          <img src="/images/jeddah_movers_2.jpg" alt="السلالم" class="rounded-md mb-3 h-40 w-full object-cover" />
+          <img src="/images/furniture_transportation_services_jeddah_saudi.jpg" alt="السلالم" class="rounded-md mb-3 h-40 w-full object-cover" />
           <h3 class="font-semibold text-lg">السلالم الضيقة</h3>
           <p>المباني القديمة تمتلك سلالم بعرض أقل من 1م، وقد يستلزم ذلك تفكيك القطع الكبيرة.</p>
         </article>
         <article class="bg-white p-6 rounded-lg shadow-lg space-y-2">
-          <img src="/images/jeddah_packing_services_1.jpg" alt="المواقف" class="rounded-md mb-3 h-40 w-full object-cover" />
+          <img src="/images/jeddah_furniture_movers_professional.jpg" alt="المواقف" class="rounded-md mb-3 h-40 w-full object-cover" />
           <h3 class="font-semibold text-lg">المواقف</h3>
           <p>مواقف واسعة ومتعددة الطوابق تسمح بوقوف الشاحنات الكبيرة بسهولة.</p>
         </article>

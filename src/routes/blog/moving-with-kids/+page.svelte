@@ -23,7 +23,7 @@
 		</div>
 	</header>
 
-	<img src="/images/jeddah_family_moving.jpg" alt="عائلة تنقل العفش مع الأطفال في جدة" class="w-full rounded-lg shadow-lg mb-8" />
+	<img src="/images/house_moving_less_stressful.jpg" alt="عائلة تنقل العفش مع الأطفال في جدة" class="w-full rounded-lg shadow-lg mb-8" />
 
 	<section class="mb-8">
 		<p class="lead">

@@ -23,7 +23,7 @@
 		</div>
 	</header>
 
-	<img src="/images/jeddah_moving_box_design.jpg" alt="النقل الصديق للبيئة" class="w-full rounded-lg shadow-lg mb-8" />
+	<img src="/images/jeddah_furniture_moving_specialists.jpg" alt="النقل الصديق للبيئة" class="w-full rounded-lg shadow-lg mb-8" />
 
 	<section class="mb-8">
 		<p class="lead">

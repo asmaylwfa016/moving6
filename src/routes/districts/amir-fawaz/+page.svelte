@@ -19,7 +19,7 @@
   <!-- Hero -->
   <section class="relative h-72 md:h-96">
     <img
-      src="/images/jeddah_moving_stencils.jpg"
+      src="/images/furniture_transportation_jeddah_specialists_saudi.jpg"
       alt="منظر عام لحي الأمير فواز"
       class="absolute inset-0 w-full h-full object-cover opacity-70" />
     <div class="absolute inset-0 bg-gradient-to-b from-black/60 to-black/30"></div>
