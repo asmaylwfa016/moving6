@@ -1,1 +1,3 @@
+# Ensure images are served directly without SPA routing
+/images/* /images/:splat 200
 /*    /index.html   200 
