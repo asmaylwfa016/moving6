@@ -1,6 +1,5 @@
 <script lang="ts">
   import { companies } from '$lib/data/companies';
-  import { getImageSrc } from '$lib/utils/imageHelper';
 </script>
 
 <svelte:head>
@@ -45,8 +44,8 @@
         <div class="bg-white rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden">
           <div class="p-6">
             <div class="flex items-center mb-4">
-              <img src={getImageSrc(company.logo || '/images/placeholder.svg')} alt={company.name} class="w-10 h-10" />
-              <h3 class="text-xl font-bold text-gray-800 mr-3">{company.name}</h3>
+              <img src={company.logo} alt={company.name} class="w-16 h-16 rounded-lg object-cover ml-3" />
+              <h3 class="text-xl font-bold text-gray-800">{company.name}</h3>
             </div>
             
             <p class="text-gray-600 mb-4">{company.description}</p>

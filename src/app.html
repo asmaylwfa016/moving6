@@ -12,30 +12,6 @@
 			rel="stylesheet"
 		/>
 		
-		<!-- Global script to handle image errors -->
-		<script>
-			// Placeholder image as data URL
-			const PLACEHOLDER_IMAGE = 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"%3E%3Crect width="800" height="600" fill="%23f3f4f6"/%3E%3Cpattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"%3E%3Cpath d="M 40 0 L 0 0 0 40" fill="none" stroke="%23e5e7eb" stroke-width="1"/%3E%3C/pattern%3E%3Crect width="800" height="600" fill="url(%23grid)" /%3E%3Cg transform="translate(300, 200)"%3E%3Crect x="0" y="50" width="160" height="100" fill="%23059669" rx="5"/%3E%3Crect x="160" y="70" width="60" height="80" fill="%23047857" rx="5"/%3E%3Crect x="170" y="80" width="40" height="30" fill="%23e0f2fe" rx="3"/%3E%3Ccircle cx="40" cy="160" r="15" fill="%23374151"/%3E%3Ccircle cx="120" cy="160" r="15" fill="%23374151"/%3E%3Ccircle cx="190" cy="160" r="15" fill="%23374151"/%3E%3Crect x="20" y="70" width="30" height="30" fill="%23fbbf24" stroke="%23f59e0b" stroke-width="2"/%3E%3Crect x="60" y="70" width="30" height="30" fill="%23fbbf24" stroke="%23f59e0b" stroke-width="2"/%3E%3Crect x="100" y="70" width="30" height="30" fill="%23fbbf24" stroke="%23f59e0b" stroke-width="2"/%3E%3C/g%3E%3Ctext x="400" y="400" text-anchor="middle" fill="%23374151" font-family="Arial, sans-serif" font-size="24" font-weight="bold"%3Eشركة نقل عفش جدة%3C/text%3E%3Ctext x="400" y="430" text-anchor="middle" fill="%236b7280" font-family="Arial, sans-serif" font-size="16"%3Eخدمات نقل احترافية وآمنة%3C/text%3E%3C/svg%3E';
-			
-			// Handle image errors globally
-			document.addEventListener('error', function(e) {
-				if (e.target.tagName === 'IMG') {
-					e.target.src = PLACEHOLDER_IMAGE;
-					e.target.onerror = null; // Prevent infinite loop
-				}
-			}, true);
-			
-			// Also handle images that are already loaded but failed
-			document.addEventListener('DOMContentLoaded', function() {
-				const images = document.querySelectorAll('img');
-				images.forEach(img => {
-					if (!img.complete || img.naturalHeight === 0) {
-						img.src = PLACEHOLDER_IMAGE;
-					}
-				});
-			});
-		</script>
-		
 		%sveltekit.head%
 	</head>
 	<body data-sveltekit-preload-data="hover" class="font-tajawal">
