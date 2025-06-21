@@ -1,3 +1,5 @@
-# Ensure images are served directly without SPA routing
-/images/* /images/:splat 200
-/*    /index.html   200 
+# Images must be served with highest priority
+/images/* /images/:splat 200!
+
+# SPA fallback for all other routes
+/* /index.html 200 

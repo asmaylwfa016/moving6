@@ -1,34 +1,30 @@
 #!/bin/bash
 
-echo "Starting build process..."
+# Netlify build script for SvelteKit with static images
 
-# Check Node version
-echo "Node version: $(node --version)"
-echo "NPM version: $(npm --version)"
-
-# Clean any existing build
-rm -rf build
-rm -rf .svelte-kit
+echo "🚀 Starting build process..."
 
 # Install dependencies
-echo "Installing dependencies..."
+echo "📦 Installing dependencies..."
 npm install --production=false
 
-# Verify vite is available
-echo "Checking vite..."
-npx vite --version
-
-# Run build
-echo "Running build..."
+# Build the SvelteKit app
+echo "🔨 Building SvelteKit app..."
 npm run build
 
-echo "Build completed!"
-
-# Check if build directory exists
-if [ -d "build" ]; then
-    echo "Build directory created successfully"
-    ls -la build/
+# Verify images are in build folder
+echo "🖼️ Verifying images..."
+if [ -d "build/images" ]; then
+    echo "✅ Images folder found in build directory"
+    echo "📊 Image count: $(find build/images -name "*.jpg" | wc -l) JPG files"
+    echo "📊 Image count: $(find build/images -name "*.png" | wc -l) PNG files"
 else
-    echo "ERROR: Build directory not found!"
+    echo "❌ Images folder NOT found in build directory"
     exit 1
-fi 
+fi
+
+# List some sample images
+echo "🔍 Sample images in build/images:"
+ls -la build/images/ | head -10
+
+echo "✅ Build completed successfully!" 

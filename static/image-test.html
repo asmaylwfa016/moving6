@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>اختبار الصور - Netlify</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .test-container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .image-test {
+            margin: 20px 0;
+            padding: 15px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+        }
+        .image-test img {
+            max-width: 100%;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 5px;
+        }
+        .status {
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+        }
+        .success { background: #d4edda; color: #155724; border: 1px solid #c3e6cb; }
+        .error { background: #f8d7da; color: #721c24; border: 1px solid #f5c6cb; }
+    </style>
+</head>
+<body>
+    <div class="test-container">
+        <h1>🧪 اختبار تحميل الصور على Netlify</h1>
+        
+        <div class="image-test">
+            <h3>الصورة الأولى:</h3>
+            <p><strong>المسار:</strong> /images/furniture_transportation_jeddah_specialists_saudi.jpg</p>
+            <img 
+                src="/images/furniture_transportation_jeddah_specialists_saudi.jpg" 
+                alt="Test Image 1"
+                onload="showStatus('img1', true)"
+                onerror="showStatus('img1', false)"
+            />
+            <div id="img1-status" class="status"></div>
+        </div>
+
+        <div class="image-test">
+            <h3>الصورة الثانية:</h3>
+            <p><strong>المسار:</strong> /images/jeddah_furniture_moving_company_ksa.jpg</p>
+            <img 
+                src="/images/jeddah_furniture_moving_company_ksa.jpg" 
+                alt="Test Image 2"
+                onload="showStatus('img2', true)"
+                onerror="showStatus('img2', false)"
+            />
+            <div id="img2-status" class="status"></div>
+        </div>
+
+        <div class="image-test">
+            <h3>الصورة الثالثة:</h3>
+            <p><strong>المسار:</strong> /images/furniture_transport_solutions_jeddah.jpg</p>
+            <img 
+                src="/images/furniture_transport_solutions_jeddah.jpg" 
+                alt="Test Image 3"
+                onload="showStatus('img3', true)"
+                onerror="showStatus('img3', false)"
+            />
+            <div id="img3-status" class="status"></div>
+        </div>
+
+        <div style="margin-top: 30px; padding: 20px; background: #e3f2fd; border-radius: 8px;">
+            <h3>📋 معلومات التشخيص:</h3>
+            <p><strong>URL الحالي:</strong> <span id="current-url"></span></p>
+            <p><strong>User Agent:</strong> <span id="user-agent"></span></p>
+            <p><strong>الوقت:</strong> <span id="timestamp"></span></p>
+        </div>
+    </div>
+
+    <script>
+        function showStatus(imgId, success) {
+            const statusEl = document.getElementById(imgId + '-status');
+            if (success) {
+                statusEl.className = 'status success';
+                statusEl.innerHTML = '✅ تم تحميل الصورة بنجاح';
+            } else {
+                statusEl.className = 'status error';
+                statusEl.innerHTML = '❌ فشل في تحميل الصورة - 404 أو خطأ آخر';
+            }
+        }
+
+        // Fill diagnostic info
+        document.getElementById('current-url').textContent = window.location.href;
+        document.getElementById('user-agent').textContent = navigator.userAgent;
+        document.getElementById('timestamp').textContent = new Date().toLocaleString('ar-SA');
+
+        // Console logging for debugging
+        console.log('🔍 Image Test Page Loaded');
+        console.log('URL:', window.location.href);
+        console.log('Base URL:', window.location.origin);
+        
+        // Test image paths
+        const testPaths = [
+            '/images/furniture_transportation_jeddah_specialists_saudi.jpg',
+            '/images/jeddah_furniture_moving_company_ksa.jpg',
+            '/images/furniture_transport_solutions_jeddah.jpg'
+        ];
+        
+        testPaths.forEach((path, index) => {
+            fetch(path)
+                .then(response => {
+                    console.log(`Image ${index + 1} (${path}):`, response.status, response.statusText);
+                })
+                .catch(error => {
+                    console.error(`Image ${index + 1} (${path}) Error:`, error);
+                });
+        });
+    </script>
+</body>
+</html> 
